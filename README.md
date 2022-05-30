@@ -5,7 +5,8 @@
 ### Correo electronico
    📧 [Email](mailto:luis.leon.rodriguez@utelvt.edu.ec?subject=Hi% "Hi!")
 ### Link del video Actividad-B1
-   🌐 
+   🌐 [Computador y Lenguajes de Programación](https://www.youtube.com/watch?v=0iMLRUOduSQ)
+   🌐 [Introducción de las computadoras y lenguajes de alto nivel](https://www.youtube.com/watch?v=udwc_xfVeh0)
    
 ## Nombre de cada programa 💻
    #### 1. LeonBryan-Compara.cpp
