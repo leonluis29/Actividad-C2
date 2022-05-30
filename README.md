@@ -1,4 +1,4 @@
-# Programa en C++ por de Leon Bryan
+# Programa en C++ de Leon Bryan
 ## Información resumida del autor
 ### Nombre
    - 👨‍💻 Leon Bryan
