@@ -1,7 +1,7 @@
 # Programa en **C++** [![alt tag](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/32/Dev-icon.png)](Linux) de Leon Bryan
 ## Información resumida del autor
 ### Nombre
-   👨‍💻 **Leon Bryan**
+   👨‍💻 **Leon Rodriguez Luis Bryan**
 ### Correo electronico
    📧 [Email](mailto:luis.leon.rodriguez@utelvt.edu.ec?subject=Hi% "Hi!")
 ### Link del video Actividad-B1
