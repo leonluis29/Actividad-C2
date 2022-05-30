@@ -1,4 +1,4 @@
-# Programa en C++ de Leon Bryan [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+# Programa en [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)] de Leon Bryan
 ## Información resumida del autor
 ### Nombre
    👨‍💻 **Leon Bryan**
