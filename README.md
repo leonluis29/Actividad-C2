@@ -1,11 +1,11 @@
 # Programa en C++ de Leon Bryan
 ## Información resumida del autor
 ### Nombre
-   - 👨‍💻 *Leon Bryan*
+   👨‍💻 *Leon Bryan*
 ### Correo electronico
-   - 📧 [Email](mailto:luis.leon.rodriguez@utelvt.edu.ec?subject=Hi% "Hi!")
+   📧 [Email](mailto:luis.leon.rodriguez@utelvt.edu.ec?subject=Hi% "Hi!")
 ### Link del video Actividad-B1
-   - 🌐 
+   🌐 
 ## Nombre de cada programa 💻
    #### 1. LeonBryan-Compara.cpp
    - _Descripcion:_ El program de `LeonBryan-Compara.cpp` sirve para comparar 2 numeros que el usuario desee elegir, y saber cual es el mayor de los 2
