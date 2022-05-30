@@ -27,5 +27,5 @@
   4. Al instalarlo ejecutamos lo siguiente
      #### Ejemplo:
      - `g++ LeonBryan-Compara.cpp -o LeonBryan-Compara` 
-     - `ls` > para listar el archivo ejecutable 
+     - `ls` = para listar el archivo ejecutable 
      - `./LeonBryan-Compara`
