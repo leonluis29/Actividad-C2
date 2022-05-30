@@ -1,9 +1,9 @@
 # Programa en C++ de Leon Bryan
 ## Información resumida del autor
 ### Nombre
-   - 👨‍💻 Leon Bryan
+   - 👨‍💻 **Leon Bryan**
 ### Correo electronico
-   - 📧 luis.leon.rodriguez@utelvt.edu.ec
+   - 📧 [Email](mailto:luis.leon.rodriguez@utelvt.edu.ec?subject=Hi% "Hi!")
 ### Link del video Actividad-B1
    - 🌐 
 ### Nombre de cada programa 💻
@@ -12,8 +12,3 @@
    3. LeonBryan-PuntoVenta.cpp
    4. LeonBryan-SumaN.cpp
    5. LeonBryan-Laedad.cpp
-
-
-**Rohit Jain**
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
