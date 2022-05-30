@@ -1,5 +1,4 @@
 # Programa en C++ por de Leon Bryan
------------------------------------
 ## Información resumida del autor
 ### Nombre
     - 👨‍💻 Leon Bryan
