@@ -26,6 +26,6 @@
   3. Debemos tener instalado el programa de `c++` se llama clang con el siguiente comando `pkg install clang -y`
   4. Al instalarlo ejecutamos lo siguiente
      #### Ejemplo:
-     `g++ LeonBryan-Compara.cpp -o LeonBryan-Compara`
-     `ls` > para listar el archivo ejecutable
-     `./LeonBryan-Compara`
+     - `g++ LeonBryan-Compara.cpp -o LeonBryan-Compara` \
+     - `ls` > para listar el archivo ejecutable \
+     - `./LeonBryan-Compara`
