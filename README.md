@@ -21,3 +21,11 @@
    - _Descripción:_ El programa de `LeonBryan-Laedad.cpp` sirve para saber cual es la edad, de la persona, según su año de nacimiento, y se obtiene elresultado de su edad
 
 ## Comandos para utilizar los programas
+  1. Debemos clonar el reporsitorio `git clone`
+  2. Ingresamos a la carpeta de _Actividad-C2_ con el comando `cd Actividad-C2`
+  3. Debemos tener instalado el programa de `c++` se llama clang con el siguiente comando `pkg install clang -y`
+  4. Al instalarlo ejecutamos lo siguiente
+     #### Ejemplo:
+     `g++ LeonBryan-Compara.cpp -o LeonBryan-Compara`
+     `ls` > para listar el archivo ejecutable
+     `./LeonBryan-Compara`
