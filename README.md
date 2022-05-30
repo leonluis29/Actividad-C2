@@ -28,4 +28,4 @@
      #### Ejemplo:
      - `g++ LeonBryan-Compara.cpp -o LeonBryan-Compara` 
      - `ls` = para listar el archivo ejecutable 
-     - `./LeonBryan-Compara`
+     - `./LeonBryan-Compara` = para ejecutar el programa
