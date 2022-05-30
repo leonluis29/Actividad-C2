@@ -16,4 +16,4 @@
    #### 4. LeonBryan-SumaN.cpp
    - _Descripción:_ El programa de `LeonBryan-SumaN.cpp` sirve para saber la sumatoria de varios numeros, y por ende, nos da el resultado, sobre la cantidad realizada
    #### 5. LeonBryan-Laedad.cpp
-   _Descripción:_ El programa de `LeonBryan-Laedad.cpp` sirve para saber cual es la edad, de la persona, según su año de nacimiento, y se obtiene elresultado de su edad
+   - _Descripción:_ El programa de `LeonBryan-Laedad.cpp` sirve para saber cual es la edad, de la persona, según su año de nacimiento, y se obtiene elresultado de su edad
