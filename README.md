@@ -1,4 +1,4 @@
-# Programa en [![alt tag](https://cdn-icons-png.flaticon.com/512/919/919841.png)](Linux) de Leon Bryan
+# Programa en [![alt tag](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png)](Linux) de Leon Bryan
 ## Información resumida del autor
 ### Nombre
    👨‍💻 **Leon Bryan**
