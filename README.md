@@ -1,4 +1,4 @@
-# Programa en [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](linux) de Leon Bryan
+# Programa en [![alt tag] https://2.bp.blogspot.com/-DrHDBZWMWC0/WyLLvXElCpI/AAAAAAAAACg/BpyMuVGLcaQJ3ur3HgsVqcgZ_di2-Qb1QCLcBGAs/s1600/c-plus-plus-logo.png](c++) de Leon Bryan
 ## Información resumida del autor
 ### Nombre
    👨‍💻 **Leon Bryan**
